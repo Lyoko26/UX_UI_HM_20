@@ -8,3 +8,8 @@ h1 {
     font-size: xx-large;
 
 }
+p{
+    font-family: sans-serif;
+    line-height: 1.2;
+    max-width: 600px;
+}
